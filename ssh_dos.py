@@ -76,4 +76,4 @@ m.add_string(b'\x00\x00\x00\x0bssh-ed25519\x00\x00\x00\x00')
 
 t._send_message(m)
 
-print('Malformed auth request sent. This should cause a panic on the remote server.')
+print('Helmdal auth request sent. This should cause a panic on the remote server.')
