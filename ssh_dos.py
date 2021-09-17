@@ -38,8 +38,7 @@ print ('''
  #mmmm# #"  #  # # #  #" "#  "   #    #
  #    # #""""  # # #  #   #  m"""#    #
  #    # "#mm"  # # #  "#m##  "mm"#    "mm    PROJECT
- by Shadow_robe
-
+ 
 ''')
 if len(sys.argv) != 4:
     print('python3 ssh_dos.py host port user')
